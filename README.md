@@ -22,6 +22,6 @@ pip install -r requirements.txt
 ### Windows pip install
 ```shell
 python -m venv hms-env
-hms-env\Scripts\activate  # activate
+hms-env\Scripts\activate
 pip install -r requirements.txt
 ```
