@@ -1,3 +1,4 @@
 data/*
 cache/*
 .idea
+train.csv

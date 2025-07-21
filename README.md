@@ -20,5 +20,7 @@ hms-env\Scripts\activate  # activate
 pip install -r requirements.txt
 ```
 
+Then you'll need to download the data [here](https://drive.google.com/drive/folders/1hGVPjkCnaAxX8XAPr-RMjpDp6KsXeFT5?usp=drive_link), or for the complete dataset you can check out the original [kaggle competition](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/overview).
 
-And then run the `hms_starter.ipynb` notebook.
+
+Finally, run the `hms_starter.ipynb` notebook.
